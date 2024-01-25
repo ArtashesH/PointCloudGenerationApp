@@ -1,0 +1,6 @@
+-------MEASUREMENT DATA---------
+
+pointCloudForMeasurements.ply
+
+ID : Dist [pointA][pointB]
+M0 : 193.019 [-277.748, -194.749, 491.048] [-362.022, -314.426, 616.871] 
